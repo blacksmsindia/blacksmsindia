@@ -252,8 +252,8 @@ Contributions, technical feedback, and improvements to public developer projects
 
 ## 🔗 Links
 
-* **GitHub:** https://github.com/BLACKSMSINDIA
-* **GitHub Projects:** https://github.com/BLACKSMSINDIA?tab=repositories
+* **GitHub:** https://github.com/blacksmsindia
+* **GitHub Projects:** https://github.com/blacksmsindia?tab=repositories
 
 For product documentation, API access, integration information, and support, use the official BLACKSMS channels associated with the relevant project.
 
